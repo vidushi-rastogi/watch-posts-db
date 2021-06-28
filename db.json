@@ -1,0 +1,74 @@
+{
+  "posts": [
+    { "id": 1,
+      "title": "Json-server",
+      "author": "Amanda",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 1,
+      "disliked": 0
+    },
+    { "id": 2,
+      "title": "The SkyWalker",
+      "author": "Darth Vader",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 0,
+      "disliked": 0
+    },
+    { "id": 3,
+      "title": "Hukum",
+      "author": "Boren Ekka",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 0,
+      "disliked": 1
+    },
+    { "id": 4,
+      "title": "Naruto Shipudden",
+      "author": "Kurama",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 1,
+      "disliked": 0
+    },
+    { "id": 5,
+      "title": "Endgame",
+      "author": "Tony Stark",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 0,
+      "disliked": 1
+    },
+    { "id": 6,
+      "title": "The Digital Fortess",
+      "author": "Dan Brown",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 0,
+      "disliked": 0
+    },
+    { "id": 7,
+      "title": "Invincible",
+      "author": "Poppin Cruz",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 1,
+      "disliked": 0
+    },
+    { "id": 8,
+      "title": "Atheism",
+      "author": "God Saviour",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 0,
+      "disliked": 1
+    },
+    { "id": 9,
+      "title": "Python",
+      "author": "Ronin Loq",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 0,
+      "disliked": 1
+    },
+    { "id": 10,
+      "title": "Beast Titan",
+      "author": "Levi Ackerman",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "liked": 1,
+      "disliked": 0
+    }
+  ]
+}
